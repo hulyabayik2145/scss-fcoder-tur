@@ -1,6 +1,6 @@
-<h4> scss-fcoder-tur<h4>
+<h4> scss-fcoder-tur</h4>
 
-Bu proje HTML ,SCSS kullanılarak hazırlanmış ornek bir tur sitesi örneğidir
+Bu proje HTML ,SCSS,CSS kullanılarak hazırlanmış ornek bir tur sitesi örneğidir
 
 <h4>ekran gif</h4>
 
